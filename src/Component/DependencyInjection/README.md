@@ -1,0 +1,1 @@
+### Dependency injection component (DIC)

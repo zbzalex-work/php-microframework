@@ -1,0 +1,14 @@
+{
+    "name": "trivialsolution/microframework",
+    "description": "The microframework written on PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sasha Broslavskiy",
+            "email": "alexandr@polbox.tv"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
